@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1040158447106-qchi68nqc69f0u4u6t2cfnqp72hps92t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1040158447106-qchi68nqc69f0u4u6t2cfnqp72hps92t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_aNzNpZp7I5M_18vhWN92ng1Wm1TTLgw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1040158447106</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.voisine.breadwallet</string>
+	<key>PROJECT_ID</key>
+	<string>euro-cipher</string>
+	<key>STORAGE_BUCKET</key>
+	<string>euro-cipher.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1040158447106:ios:39627a03d9802553e1b91b</string>
+	<key>DATABASE_URL</key>
+	<string>https://euro-cipher-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
